@@ -8,6 +8,25 @@
   "btns"
   "experience"
   "info";
+
+  .btn-primary {
+    background: linear-gradient(90deg, #777CF4 2.62%, #F47777 93,38%);
+    border-radius: 26px;
+    width: 325px;
+    padding: 12px;
+    text-align: center;
+    
+    color: var(--text-primary);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    border: none;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
 }
 
 @media (min-width: 768px) {
