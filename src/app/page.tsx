@@ -1,7 +1,7 @@
 import { Experience } from './components/experience/experience'
 import { Header } from './components/header/header'
 import { Information } from './components/information/information'
-import { EmailIcons } from './components/icons/email-icons'
+import { EmailIcon } from './components/icons/email-icon'
 import './styles/home.scss'
 import SocialBtns from './components/social-btns/social-btns'
 
@@ -15,7 +15,7 @@ export default function Home() {
           <SocialBtns />
           <button className='btn-primary'>
           Entre em Contato
-          <EmailIcons />
+          <EmailIcon />
           </button>
       </div>
     </main>
