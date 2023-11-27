@@ -10,7 +10,8 @@ export function Experience() {
   return (
     <div className="experience">
       <SectionTitle text="Experiência"/>
-      <p>Colocar texto</p>
+      <p>Transição de carreira busca de novos conhecimentos para Desenvolvedor Full-Stack.</p>
+      <p>Minha Experiência em desenvolvimento de aplicações web tem base em projetos pessoais e estudos, mais de um ano de Trybe.</p>
       <div className="experience-time">
         <div className="experience-language">
           <JsIcon />

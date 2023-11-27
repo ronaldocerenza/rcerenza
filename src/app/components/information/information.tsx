@@ -6,15 +6,15 @@ export function Information() {
     <div className="infos">
     <SectionTitle text="Linguagens"/>
     <div className="languages-info">
-      <span>🇧🇷 PT-BR - Nativo</span>
-      <span>🇪🇸 ES - Intermediário</span>
+      <p>🇧🇷 PT-BR - Nativo</p>
+      <p>🇪🇸 ES - Intermediário</p>
     </div>
     <SectionTitle text="Educação"/>
-    <div className="Educational-info">
-      <span>🎓 UEMS - Economia</span>
-      <span>🎓 Laureat - Docencia Superior</span>
-      <span>🧠 Trybe - FullStack</span>
-      <span>🎓 ITI - Cientista de Dados</span>
+    <div className="educational-info">
+      <p>🎓 UEMS - Economia</p>
+      <p>🎓 Laureat - Docencia Superior</p>
+      <p>🧠 Trybe - FullStack</p>
+      <p>🎓 ITI - Cientista de Dados</p>
     </div>
   </div>
   )
